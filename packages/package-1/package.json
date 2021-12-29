@@ -1,6 +1,6 @@
 {
   "name": "@eric-lernatest/package-1",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "Eric Xyz <ericzon@gmail.com>",
   "homepage": "",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "dca48831fef5a0b0d5184b7381d20e1b9b387393"
+  "gitHead": "a5353ab4f25fad9f17d07376d7a830fb79b1cef5"
 }
