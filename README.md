@@ -52,3 +52,9 @@ lerna publish
     lerna ERR! E404 Scope not found
     ````
     You should only use scopes related with your user or organization. You can create an organization [here](https://www.npmjs.com/org/create) or check some docs [there](https://docs.npmjs.com/organizations)
+
+### References
+
+- https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages/
+
+- https://www.adaltas.com/en/2021/01/11/js-monorepos-versioning-publishing/
