@@ -1,0 +1,23 @@
+{
+  "name": "@eric-lernatest/package-1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Eric Xyz <ericzon@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ericzon/eric-lernatest.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
