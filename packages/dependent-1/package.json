@@ -1,6 +1,6 @@
 {
   "name": "dependent-1",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "> TODO: description",
   "author": "Eric Lara <ericzon@gmail.com>",
   "homepage": "https://github.com/ericzon/eric-lernatest#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/ericzon/eric-lernatest/issues"
   },
   "dependencies": {
-    "@eric-tests/package-1": "^0.0.9"
+    "@eric-tests/package-1": "^0.0.10"
   }
 }
