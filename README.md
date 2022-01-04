@@ -5,9 +5,14 @@ This is a project for doing some tests about whole lerna workflow.
 ## Useful commands
 
 
-To trigger a new publish without having to add any change:
+- To trigger a new publish without having to add any change:
 ```
 lerna publish --force-publish
+```
+
+- To select a automatically a version type and put ouput in file:
+```
+lerna publish patch --force-publish --yes >> lerna-output.txt
 ```
 
 ## Publish packages
