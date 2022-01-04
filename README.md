@@ -5,6 +5,11 @@ This is a project for doing some tests about whole lerna workflow.
 ## Useful commands
 
 
+- To setup an already existing project, linking dependencies:
+```
+lerna bootstrap
+```
+
 - To trigger a new publish without having to add any change:
 ```
 lerna publish --force-publish
